@@ -1,0 +1,2 @@
+*.psd,[[:space:]]*.png,[[:space:]]*.mp3,[[:space:]]*.prefab,[[:space:]]*.fbx,[[:space:]]*.xcf filter=lfs diff=lfs merge=lfs -text
+*.psd,[[:space:]]*.png,[[:space:]]*.mp3,[[:space:]]*.prefab,[[:space:]]*.fbx,[[:space:]]*.xcf filter=lfs diff=lfs merge=lfs -text
